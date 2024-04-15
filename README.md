@@ -1,18 +1,10 @@
-## Getting Started
+## Hotel Management System
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This Java application provides a simple hotel management system for managing room reservations. It allows users to perform various tasks such as reserving rooms, viewing existing reservations, getting room numbers for reservations, updating reservations, and deleting reservations.
 
-## Folder Structure
+##Requirements :
 
-The workspace contains two folders by default, where:
+Java Development Kit (JDK): Ensure JDK is installed on your system.
+MySQL Database: Set up a MySQL database with the required schema and tables.
+JDBC Driver: Make sure you have the JDBC driver for MySQL configured in your project.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
